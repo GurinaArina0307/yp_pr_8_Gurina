@@ -1,0 +1,10 @@
+D:\Солихов ПР-21\praktika19_2\praktika19_2\bin\Debug\praktika19_2.exe.config
+D:\Солихов ПР-21\praktika19_2\praktika19_2\bin\Debug\praktika19_2.exe
+D:\Солихов ПР-21\praktika19_2\praktika19_2\bin\Debug\praktika19_2.pdb
+D:\Солихов ПР-21\praktika19_2\praktika19_2\obj\Debug\praktika19_2.csproj.AssemblyReference.cache
+D:\Солихов ПР-21\praktika19_2\praktika19_2\obj\Debug\praktika19_2.Form1.resources
+D:\Солихов ПР-21\praktika19_2\praktika19_2\obj\Debug\praktika19_2.Properties.Resources.resources
+D:\Солихов ПР-21\praktika19_2\praktika19_2\obj\Debug\praktika19_2.csproj.GenerateResource.cache
+D:\Солихов ПР-21\praktika19_2\praktika19_2\obj\Debug\praktika19_2.csproj.CoreCompileInputs.cache
+D:\Солихов ПР-21\praktika19_2\praktika19_2\obj\Debug\praktika19_2.exe
+D:\Солихов ПР-21\praktika19_2\praktika19_2\obj\Debug\praktika19_2.pdb
